@@ -6,8 +6,7 @@
  * @returns total of the two numbers
  */
 const add = (firstNum: number, secondNum: number): number => {
-  const total = firstNum + secondNum;
-  return total;
+  return firstNum + secondNum;
 };
 
 export default add;
